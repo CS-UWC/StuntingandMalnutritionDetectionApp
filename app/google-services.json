@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011922026138",
+    "project_id": "stuntingdetection-2a13e",
+    "storage_bucket": "stuntingdetection-2a13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011922026138:android:0b3730a3c1c8e98025e923",
+        "android_client_info": {
+          "package_name": "com.example.stuntingdetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRHCk2UCDdW_b44l4CEQv9ecNOdsONAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

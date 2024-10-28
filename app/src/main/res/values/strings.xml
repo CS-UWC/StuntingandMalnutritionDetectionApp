@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">StuntingDetection</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="open_nav">Open navigation drawer</string>
+    <string name="close_nav">Close navigation drawer</string>
+    <string name="sign_out">Sign out</string>
+    <string name="about_us">About us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+    <string name="accounts">Accounts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">exit</string>
+    <string name="upload_a_image_for_scan">Upload a image for scan</string>
+    <string name="take_picture_for_scan">Take picture for scan</string>
+    <string name="scanner">Scanner</string>
+    <string name="todo">TODO</string>
+    <string name="profiles">Profiles</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="username">USERNAME</string>
+    <string name="add_profile">ADD PROFILE</string>
+    <string name="enter">ENTER</string>
+    <string name="delete_profile">DELETE PROFILE</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="height">HEIGHT</string>
+    <string name="age">AGE</string>
+    <string name="status">STATUS</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="enter_child_name">Enter Child name</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="upload_image_for_scan">Upload image for scan</string>
+    <string name="confirm_upload">Confirm upload</string>
+    <string name="gender">GENDER</string>
+    <string name="results">Results</string>
+
+
+        <!-- Other string resources -->
+        <string name="privacy_policy_text">
+        Privacy Policy
+
+
+
+        At StuntinfDetection, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our application.
+
+        1. Information We Collect
+        We collect the following types of information:
+        - Personal Information: Such as name, email address, and other contact details.
+        - Usage Data: Information about how you use the application, including log data and interaction patterns.
+        - Device Information: Details about your device, including model, operating system, and unique identifiers.
+
+        2. How We Use Your Information
+        We use the information we collect for the following purposes:
+        - To provide and maintain our services.
+        - To analyze usage and improve the application.
+        - To communicate with you, including sending updates and promotional content.
+        - To ensure the security and functionality of our application.
+
+        3. Data Security
+        We implement a variety of security measures to ensure the protection of your personal information. These measures include encryption, secure servers, and access controls.
+
+        4. Data Sharing
+        We do not sell, trade, or otherwise transfer your personal information to outside parties. We may share information with trusted third parties who assist us in operating our application, provided that they agree to keep the information confidential.
+
+        5. Cookies and Tracking Technologies
+        Our application may use cookies and similar tracking technologies to enhance user experience and analyze usage patterns. You can adjust your browser settings to refuse cookies or alert you when cookies are being sent.
+
+        6. User Rights
+        You have the right to access, update, or delete your personal information. If you wish to exercise these rights, please contact us using the information provided below.
+
+        7. Changes to This Privacy Policy
+        We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated policy on our application.
+
+        8. Contact Us
+        If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+
+        Thank you for trusting StuntingDetection with your personal information. We are committed to safeguarding your data and providing a secure user experience.
+    </string>
+
+
+
+    <string name="about_us_text">Welcome to StuntingDetection: Early Detection of Stunting\n\nAt Stunting Detection, we are dedicated to addressing a critical global health issue: growth stunting in children. Our mission is to utilize cutting-edge technology to provide early and accessible detection of stunting, empowering early childhood development centers and caregivers to take timely action.\n\nOur Vision\n\nGrowth stunting is a severe and pervasive health problem that affects millions of children worldwide. It results from inadequate nutrition, repeated infections, and insufficient psychosocial stimulation, leading to both immediate and long-term health challenges. Our vision is to harness the power of machine learning and mobile technology to offer an innovative solution that can make a tangible difference in combating this issue.\n\nWhat We Do\n\nGrowthGuard leverages advanced machine learning algorithms and mobile cameras to analyze visual data and identify signs of growth stunting. Our mobile application is designed to be user-friendly and accessible, enabling users to detect stunting with ease and accuracy. The app provides:\n\nVisual Analysis: Using mobile cameras, our app analyzes images of children to detect physical signs of stunting.\nPredictive Algorithms: Our system uses machine learning models to process data on height, weight, and visual indicators to predict stunting.\nEarly Alerts: The app generates alerts when signs of stunting are detected, allowing for timely intervention and support.\nOur Team\n\nE. Adams\nA dedicated researcher in machine learning and IoT, E. Adams is committed to using technology to solve pressing health issues. Based in Cape Town, E. Adams is passionate about leveraging data to drive positive outcomes in child health.\n\nA.J. Henney\nWith expertise in computer science and health technology, A.J. Henney collaborates on innovative projects aimed at improving health care access and quality. Based in Cape Town, A.J. Henney brings valuable insights into the development and implementation of effective technological solutions.\n\nOur Approach\n\nGrowthGuard is developed in partnership with the Western Cape Department of Health and researchers from the University of the Western Cape. We are committed to ethical practices and rigorous testing to ensure our app meets the highest standards of accuracy and reliability. Our goal is to provide a tool that is both effective and easy to use, making stunting detection accessible to all who need it.\n\nGet Involved\n\nWe believe that addressing stunting requires collective effort and collaboration. If you are interested in learning more about GrowthGuard, partnering with us, or supporting our mission, please get in touch. Together, we can make a difference in the lives of children and contribute to a healthier future for all.\n\nContact Us\n\nFor more information, inquiries, or support, please reach out to us at:\n\nE. Adams\nEmail: 4133428@myuwc.ac.za\n\nA.J. Henney\nEmail: a.henney@uwc.ac.za\n\nThank you for your interest in GrowthGuard. We look forward to working with you towards a healthier, brighter future for children everywhere.</string>
+</resources>
